@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
   <a href="https://https://github.com/flavio-1012"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioMelo&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviomelo10&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomelo10&layout=compact&langs_count-16&theme=merko"/>
 </div>
 
